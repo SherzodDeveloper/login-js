@@ -1,0 +1,70 @@
+body {
+    background: #68ebf5;
+}
+.sign-up {
+   border: 1px solid #fff;
+   width: 300px;
+   height: 480px;
+   margin-left: 38%;
+   margin-top: 5%;
+   border-radius: 20px;
+   -webkit-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+   -moz-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+   box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+   background: rgb(228, 238, 238);
+}
+form {
+    margin: 55px;
+}
+input {
+    margin-top: 14px;
+    border: none;
+    outline: none;
+    padding: 12px;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 12px 30px -3px rgba(100, 191, 210, 0.34);
+    -moz-box-shadow: -1px 12px 30px -3px rgba(100, 191, 210, 0.34);
+    box-shadow: -1px 12px 30px -3px rgba(100, 191, 210, 0.34);
+}
+input:hover {
+    -webkit-box-shadow: 1px 5px 46px 13px rgba(35, 195, 229, 0.4);
+-moz-box-shadow: 1px 5px 46px 13px rgba(35, 195, 229, 0.4);
+box-shadow: 1px 5px 46px 13px rgba(35, 195, 229, 0.4);
+}
+#signup_btn {
+    margin-left: 50px;
+}
+.sign-none {
+    border: 1px solid #fff;
+    background: rgb(228, 238, 238);
+    width: 300px;
+    height: 270px;
+    margin-left: 38%;
+    margin-top: 5%;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ -moz-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ }
+.btn-none {
+    margin-left: 50px;
+}
+#myData {
+    border: 1px solid #fff;
+    width: 300px;
+    height: 380px;
+    margin-left: 38%;
+    margin-top: 5%;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ -moz-box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ box-shadow: -1px 12px 30px 7px rgba(100, 191, 210, 0.33);
+ }
+ #div-first {
+     margin: 40px;
+ }
+ .myself {
+     margin-left: 30%;
+     font-weight: bold;
+     font-size: 20pt;
+ }
